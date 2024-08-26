@@ -5,7 +5,7 @@
 </p>
 Mi correo electrónico por si necesitas donar o ayudarnos para terminar nuestra comunidad en construcción,👇 <div align="center">
  <p align='center'>
-<a href="mailto:bodysuitdigital@gmail.com">
+<a href="alex:bodysuitdigital@gmail.com">
 <img height="40" src="(https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png)"alt="Gmail">
 </a>
 </p>

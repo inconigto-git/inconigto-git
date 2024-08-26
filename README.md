@@ -3,7 +3,9 @@
  <h2 align="center">GitHub empresa privada✓</h2>
  <p align="center">¡todos los proyectos serán guardados aquí en nuestra única herramienta ghitub !</p>
 </p>
-Mi correo electrónico por si necesitas donar o ayudarnos para terminar nuestra comunidad en construcción,👇 [email](sombrahackerverde@gmail.com  :)
+Mi correo electrónico por si necesitas donar o ayudarnos para terminar nuestra comunidad en construcción,👇 <div align="center">
+ 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:centergatabot@gmail.com)
 
  **this week i spent my time on:**
 <!--START_SECTION:waka-->

@@ -63,13 +63,6 @@ if you like what i do, maybe consider buying me a coffee/tea ðŸ¥ºðŸ‘‰�
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-ðŸš§ **my todoist stats:**
-<!-- TODO-IST:START -->
-ðŸ†  8,004 Karma Points           
-ðŸŒ¸  Completed 0 tasks today           
-âœ…  Completed 673 tasks so far           
-â³  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 ðŸ“ˆ my github stats

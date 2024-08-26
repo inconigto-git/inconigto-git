@@ -6,7 +6,7 @@
 Mi correo electrónico por si necesitas donar o ayudarnos para terminar nuestra comunidad en construcción,👇 <div align="center">
  
 <p align='center'>
-<a href="bodysuitdigital@gmail.com "><imgheight="40" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png"></a>
+<a href="bodysuitdigital@gmail.com"><imgheight="40" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png"></a>
 
 [![WhatsApp](https://img.shields.io/badge/STAFF-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/524775446972)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100021974774712)

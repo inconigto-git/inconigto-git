@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub empresa privada</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+ <p align="center">¡todos los proyectos serán guardados aquí en nuestra única herramienta ghitub !</p>
 </p>
 for freelance work? do reach, [email](sombrahackerverde@gmail.com  :)
 

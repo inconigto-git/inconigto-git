@@ -7,7 +7,7 @@ Mi correo electrónico por si necesitas donar o ayudarnos para terminar nuestra 
  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sombrahackerverde@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/STAFF-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/524775446972)
-
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/groups/872989990425789/)
  **this week i spent my time on:**
 <!--START_SECTION:waka-->
 

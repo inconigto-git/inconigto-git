@@ -8,12 +8,41 @@ for freelance work? do reach, [email](sombrahackerverde@gmail.com  :)
 ðŸ“Š **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
-```txt
-TypeScript    7 hrs 52 mins   â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–‘â–‘â–‘â–‘â–‘â–‘   73.95 %
-HTML          2 hrs 20 mins   â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–“â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   22.02 %
-JavaScript    25 mins         â–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   04.00 %
-Image (svg)   0 secs          â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘   00.03 %
-```
+<?php
+
+namespace AshKellerman;
+
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Qquicker',
+                'position' => 'Founder'         
+            ]
+        ];
+    }
+
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Laravel::class,
+            Vuejs::class,
+            Angular::class,
+            ReactNative::class,
+            TailwindCss::class,
+            Aws::class,
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source.';
+    }
+}
 
 <!--END_SECTION:waka-->
 

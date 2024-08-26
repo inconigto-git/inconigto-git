@@ -5,7 +5,7 @@
 </p>
 Mi correo electrónico por si necesitas donar o ayudarnos para terminar nuestra comunidad en construcción,👇 [email](sombrahackerverde@gmail.com  :)
 
-ðŸ“Š **this week i spent my time on:**
+ **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ## Skills
